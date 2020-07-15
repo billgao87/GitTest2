@@ -18,6 +18,5 @@ TEST2_API int fnTest2(void)
 // 有关类定义的信息，请参阅 Test2.h
 CTest2::CTest2()
 {
-	
     return;
 }
